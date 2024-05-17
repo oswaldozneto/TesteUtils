@@ -40,7 +40,7 @@ end;
 
 class function TCalcUtils.Sobre: String;
 begin
-  Result:='Versão 1.0.0';
+  Result:='Versão 1.0.1';
 end;
 
 end.
