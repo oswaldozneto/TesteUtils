@@ -1,0 +1,9 @@
+{
+	"name": "TesteUtils",
+	"description": "Projeto de teste pra o BOSS",
+	"version": "1.0.0",
+	"homepage": "https://github.com/oswaldozneto/TesteUtils",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {}
+}
